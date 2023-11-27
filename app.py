@@ -1,1 +1,1 @@
-print('funciona')
+from flask import Flask
